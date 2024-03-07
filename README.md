@@ -24,3 +24,5 @@ Logistic Regression Model
   
 Summary:
 The logistic regression model performed quite well in predicting both healthy and high-risk loans. It achieved high accuracy, precision, and recall scores for both classes. This is with the understanding of the question being addressed. If for example, the question were to identify all high-risk loans, then the recall for high-risk loans becomes more important. However, considering the overall performance and balance between precision and recall for both classes, the logistic regression model appears to be the recommended choice for predicting loan status.
+
+This was written from what was learned in class. ChatGBT was used as a debugging tool.
